@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import com.example.studentmanagement.entity.Student;
 import com.example.studentmanagement.repository.StudentRepository;
 
-@Service
+
 public class StudentService {
 
     private final StudentRepository repo;
